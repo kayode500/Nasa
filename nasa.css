@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(46, 38, 38);
+}
+h1{
+    color: black;
+    padding-top: 30px;
+    
+}
+#main{
+    background-color: chocolate;
+    height: 800px;
+    width: 1200px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    border: 5px solid purple;
+    margin-top: 100px;
+
+}
+#btn1{
+    height: 50px;
+    width: 120px;
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 50px;
+   
+}
+.move{
+    margin-top: -60px;
+}
+#explanation{
+    color: white;
+}
+#date{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 70px;
+}
+.imageUrl{
+   
+    text-align: center;
+    margin-left: 75px;
+}
+
